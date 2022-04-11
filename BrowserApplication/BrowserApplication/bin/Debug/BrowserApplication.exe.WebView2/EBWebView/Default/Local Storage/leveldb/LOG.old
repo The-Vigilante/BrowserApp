@@ -1,0 +1,8 @@
+2022/04/11-20:44:34.208 1158 Reusing MANIFEST E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\BrowserApplication.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2022/04/11-20:44:34.210 1158 Recovering log #3
+2022/04/11-20:44:34.213 1158 Level-0 table #3: started
+2022/04/11-20:44:34.253 1158 Level-0 table #3: 367609 bytes OK
+2022/04/11-20:44:34.253 1158 Recovering log #4
+2022/04/11-20:44:34.254 1158 Reusing old log E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\BrowserApplication.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000004.log 
+2022/04/11-20:44:34.276 1158 Delete type=0 #3
+2022/04/11-20:44:34.276 1158 Delete type=2 #5
