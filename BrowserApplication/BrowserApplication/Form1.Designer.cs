@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            Utilities.BunifuPages.BunifuAnimatorNS.Animation animation1 = new Utilities.BunifuPages.BunifuAnimatorNS.Animation();
+            Utilities.BunifuPages.BunifuAnimatorNS.Animation animation2 = new Utilities.BunifuPages.BunifuAnimatorNS.Animation();
             this.btnGithub = new Bunifu.Framework.UI.BunifuThinButton2();
             this.btnYoutube = new Bunifu.Framework.UI.BunifuThinButton2();
             this.btnSTACK = new Bunifu.Framework.UI.BunifuThinButton2();
@@ -184,7 +184,7 @@
             this.btnVSCODE.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
             this.btnVSCODE.IdleForecolor = System.Drawing.Color.White;
             this.btnVSCODE.IdleLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
-            this.btnVSCODE.Location = new System.Drawing.Point(14, 426);
+            this.btnVSCODE.Location = new System.Drawing.Point(14, 340);
             this.btnVSCODE.Margin = new System.Windows.Forms.Padding(5);
             this.btnVSCODE.Name = "btnVSCODE";
             this.btnVSCODE.Size = new System.Drawing.Size(193, 76);
@@ -366,7 +366,7 @@
             this.btnDISCORD.IdleFillColor = System.Drawing.Color.DarkSlateBlue;
             this.btnDISCORD.IdleForecolor = System.Drawing.Color.White;
             this.btnDISCORD.IdleLineColor = System.Drawing.Color.SlateBlue;
-            this.btnDISCORD.Location = new System.Drawing.Point(14, 340);
+            this.btnDISCORD.Location = new System.Drawing.Point(14, 426);
             this.btnDISCORD.Margin = new System.Windows.Forms.Padding(5);
             this.btnDISCORD.Name = "btnDISCORD";
             this.btnDISCORD.Size = new System.Drawing.Size(193, 76);
@@ -413,22 +413,22 @@
             this.Book.SelectedIndex = 0;
             this.Book.Size = new System.Drawing.Size(723, 586);
             this.Book.TabIndex = 0;
-            animation1.AnimateOnlyDifferences = false;
-            animation1.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.BlindCoeff")));
-            animation1.LeafCoeff = 0F;
-            animation1.MaxTime = 1F;
-            animation1.MinTime = 0F;
-            animation1.MosaicCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicCoeff")));
-            animation1.MosaicShift = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicShift")));
-            animation1.MosaicSize = 0;
-            animation1.Padding = new System.Windows.Forms.Padding(0);
-            animation1.RotateCoeff = 0F;
-            animation1.RotateLimit = 0F;
-            animation1.ScaleCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.ScaleCoeff")));
-            animation1.SlideCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.SlideCoeff")));
-            animation1.TimeCoeff = 0F;
-            animation1.TransparencyCoeff = 0F;
-            this.Book.Transition = animation1;
+            animation2.AnimateOnlyDifferences = false;
+            animation2.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation2.BlindCoeff")));
+            animation2.LeafCoeff = 0F;
+            animation2.MaxTime = 1F;
+            animation2.MinTime = 0F;
+            animation2.MosaicCoeff = ((System.Drawing.PointF)(resources.GetObject("animation2.MosaicCoeff")));
+            animation2.MosaicShift = ((System.Drawing.PointF)(resources.GetObject("animation2.MosaicShift")));
+            animation2.MosaicSize = 0;
+            animation2.Padding = new System.Windows.Forms.Padding(0);
+            animation2.RotateCoeff = 0F;
+            animation2.RotateLimit = 0F;
+            animation2.ScaleCoeff = ((System.Drawing.PointF)(resources.GetObject("animation2.ScaleCoeff")));
+            animation2.SlideCoeff = ((System.Drawing.PointF)(resources.GetObject("animation2.SlideCoeff")));
+            animation2.TimeCoeff = 0F;
+            animation2.TransparencyCoeff = 0F;
+            this.Book.Transition = animation2;
             this.Book.TransitionType = Utilities.BunifuPages.BunifuAnimatorNS.AnimationType.Custom;
             // 
             // tabPage1
