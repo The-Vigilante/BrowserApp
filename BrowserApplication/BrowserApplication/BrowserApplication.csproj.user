@@ -4,10 +4,13 @@
     <PublishUrlHistory>E:\BrowserApp\published\|publish\</PublishUrlHistory>
     <InstallUrlHistory>https://raw.githubusercontent.com/The-Vigilante/BrowserApp/master/published/</InstallUrlHistory>
     <SupportUrlHistory />
-    <UpdateUrlHistory />
+    <UpdateUrlHistory>https://raw.githubusercontent.com/The-Vigilante/BrowserApp/master/published/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>en-US</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
   </PropertyGroup>
 </Project>

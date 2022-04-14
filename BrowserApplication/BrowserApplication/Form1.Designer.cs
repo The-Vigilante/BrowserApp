@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            Utilities.BunifuPages.BunifuAnimatorNS.Animation animation1 = new Utilities.BunifuPages.BunifuAnimatorNS.Animation();
+            Utilities.BunifuPages.BunifuAnimatorNS.Animation animation2 = new Utilities.BunifuPages.BunifuAnimatorNS.Animation();
             this.btnGithub = new Bunifu.Framework.UI.BunifuThinButton2();
             this.btnYoutube = new Bunifu.Framework.UI.BunifuThinButton2();
             this.btnSTACK = new Bunifu.Framework.UI.BunifuThinButton2();
@@ -94,8 +94,6 @@
             this.btnGithub.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnGithub.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnGithub.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnGithub.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnGithub.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnGithub.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnGithub.BackgroundImage")));
             this.btnGithub.ButtonText = "GITHUB";
@@ -123,8 +121,6 @@
             this.btnYoutube.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnYoutube.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnYoutube.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnYoutube.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnYoutube.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnYoutube.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnYoutube.BackgroundImage")));
             this.btnYoutube.ButtonText = "YOUTUBE";
@@ -151,8 +147,6 @@
             this.btnSTACK.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnSTACK.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnSTACK.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnSTACK.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnSTACK.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnSTACK.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSTACK.BackgroundImage")));
             this.btnSTACK.ButtonText = "STACKOVERFLOW";
@@ -179,8 +173,6 @@
             this.btnVSCODE.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnVSCODE.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnVSCODE.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnVSCODE.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnVSCODE.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnVSCODE.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnVSCODE.BackgroundImage")));
             this.btnVSCODE.ButtonText = "VS CODE";
@@ -218,7 +210,7 @@
             this.btnOnn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.btnOnn.IdleForecolor = System.Drawing.Color.White;
             this.btnOnn.IdleLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.btnOnn.Location = new System.Drawing.Point(46, 6);
+            this.btnOnn.Location = new System.Drawing.Point(47, 6);
             this.btnOnn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnOnn.Name = "btnOnn";
             this.btnOnn.Size = new System.Drawing.Size(133, 67);
@@ -233,8 +225,6 @@
             this.btnW3.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnW3.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnW3.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnW3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnW3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnW3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnW3.BackgroundImage")));
             this.btnW3.ButtonText = "W3SCHOOLS";
@@ -261,8 +251,6 @@
             this.btnGoogle.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnGoogle.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnGoogle.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnGoogle.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnGoogle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnGoogle.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnGoogle.BackgroundImage")));
             this.btnGoogle.ButtonText = "GOOGLE";
@@ -289,8 +277,6 @@
             this.btnSpotify.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnSpotify.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnSpotify.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnSpotify.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnSpotify.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnSpotify.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSpotify.BackgroundImage")));
             this.btnSpotify.ButtonText = "SPOTIFY";
@@ -317,8 +303,6 @@
             this.btnLinkedin.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnLinkedin.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnLinkedin.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnLinkedin.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnLinkedin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnLinkedin.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnLinkedin.BackgroundImage")));
             this.btnLinkedin.ButtonText = "LINKEDIN";
@@ -345,8 +329,6 @@
             this.btnGmail.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnGmail.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnGmail.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnGmail.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnGmail.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnGmail.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnGmail.BackgroundImage")));
             this.btnGmail.ButtonText = "GMAIL";
@@ -373,8 +355,6 @@
             this.btnDISCORD.ActiveFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnDISCORD.ActiveForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnDISCORD.ActiveLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnDISCORD.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
             this.btnDISCORD.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(32)))), ((int)(((byte)(42)))));
             this.btnDISCORD.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnDISCORD.BackgroundImage")));
             this.btnDISCORD.ButtonText = "DISCORD";
@@ -426,29 +406,29 @@
             this.Book.Location = new System.Drawing.Point(3, 3);
             this.Book.Multiline = true;
             this.Book.Name = "Book";
-            this.Book.Page = this.tabPage10;
-            this.Book.PageIndex = 9;
-            this.Book.PageName = "tabPage10";
-            this.Book.PageTitle = "tabPage10";
+            this.Book.Page = this.tabPage6;
+            this.Book.PageIndex = 5;
+            this.Book.PageName = "tabPage6";
+            this.Book.PageTitle = "tabPage6";
             this.Book.SelectedIndex = 0;
             this.Book.Size = new System.Drawing.Size(723, 930);
             this.Book.TabIndex = 0;
-            animation1.AnimateOnlyDifferences = false;
-            animation1.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.BlindCoeff")));
-            animation1.LeafCoeff = 0F;
-            animation1.MaxTime = 1F;
-            animation1.MinTime = 0F;
-            animation1.MosaicCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicCoeff")));
-            animation1.MosaicShift = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicShift")));
-            animation1.MosaicSize = 0;
-            animation1.Padding = new System.Windows.Forms.Padding(0);
-            animation1.RotateCoeff = 0F;
-            animation1.RotateLimit = 0F;
-            animation1.ScaleCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.ScaleCoeff")));
-            animation1.SlideCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.SlideCoeff")));
-            animation1.TimeCoeff = 0F;
-            animation1.TransparencyCoeff = 0F;
-            this.Book.Transition = animation1;
+            animation2.AnimateOnlyDifferences = false;
+            animation2.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation2.BlindCoeff")));
+            animation2.LeafCoeff = 0F;
+            animation2.MaxTime = 1F;
+            animation2.MinTime = 0F;
+            animation2.MosaicCoeff = ((System.Drawing.PointF)(resources.GetObject("animation2.MosaicCoeff")));
+            animation2.MosaicShift = ((System.Drawing.PointF)(resources.GetObject("animation2.MosaicShift")));
+            animation2.MosaicSize = 0;
+            animation2.Padding = new System.Windows.Forms.Padding(0);
+            animation2.RotateCoeff = 0F;
+            animation2.RotateLimit = 0F;
+            animation2.ScaleCoeff = ((System.Drawing.PointF)(resources.GetObject("animation2.ScaleCoeff")));
+            animation2.SlideCoeff = ((System.Drawing.PointF)(resources.GetObject("animation2.SlideCoeff")));
+            animation2.TimeCoeff = 0F;
+            animation2.TransparencyCoeff = 0F;
+            this.Book.Transition = animation2;
             this.Book.TransitionType = Utilities.BunifuPages.BunifuAnimatorNS.AnimationType.Custom;
             // 
             // tabPage1
@@ -457,7 +437,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 4);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(715, 471);
+            this.tabPage1.Size = new System.Drawing.Size(715, 904);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "tabPage1";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -482,7 +462,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 4);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(715, 471);
+            this.tabPage2.Size = new System.Drawing.Size(715, 904);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -507,7 +487,7 @@
             this.tabPage3.Location = new System.Drawing.Point(4, 4);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(715, 471);
+            this.tabPage3.Size = new System.Drawing.Size(715, 904);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "tabPage3";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -532,7 +512,7 @@
             this.tabPage4.Location = new System.Drawing.Point(4, 4);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(715, 471);
+            this.tabPage4.Size = new System.Drawing.Size(715, 904);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "tabPage4";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -557,7 +537,7 @@
             this.tabPage5.Location = new System.Drawing.Point(4, 4);
             this.tabPage5.Name = "tabPage5";
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(715, 471);
+            this.tabPage5.Size = new System.Drawing.Size(715, 904);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "tabPage5";
             this.tabPage5.UseVisualStyleBackColor = true;
@@ -582,7 +562,7 @@
             this.tabPage6.Location = new System.Drawing.Point(4, 4);
             this.tabPage6.Name = "tabPage6";
             this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage6.Size = new System.Drawing.Size(715, 471);
+            this.tabPage6.Size = new System.Drawing.Size(715, 904);
             this.tabPage6.TabIndex = 5;
             this.tabPage6.Text = "tabPage6";
             this.tabPage6.UseVisualStyleBackColor = true;
@@ -597,7 +577,7 @@
             this.webViewVS.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webViewVS.Location = new System.Drawing.Point(3, 3);
             this.webViewVS.Name = "webViewVS";
-            this.webViewVS.Size = new System.Drawing.Size(709, 465);
+            this.webViewVS.Size = new System.Drawing.Size(709, 898);
             this.webViewVS.TabIndex = 1;
             this.webViewVS.ZoomFactor = 1D;
             // 
@@ -607,7 +587,7 @@
             this.tabPage7.Location = new System.Drawing.Point(4, 4);
             this.tabPage7.Name = "tabPage7";
             this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage7.Size = new System.Drawing.Size(715, 471);
+            this.tabPage7.Size = new System.Drawing.Size(715, 904);
             this.tabPage7.TabIndex = 6;
             this.tabPage7.Text = "tabPage7";
             this.tabPage7.UseVisualStyleBackColor = true;
@@ -622,7 +602,7 @@
             this.webViewW3.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webViewW3.Location = new System.Drawing.Point(3, 3);
             this.webViewW3.Name = "webViewW3";
-            this.webViewW3.Size = new System.Drawing.Size(709, 465);
+            this.webViewW3.Size = new System.Drawing.Size(709, 898);
             this.webViewW3.TabIndex = 1;
             this.webViewW3.ZoomFactor = 1D;
             // 
@@ -632,7 +612,7 @@
             this.tabPage8.Location = new System.Drawing.Point(4, 4);
             this.tabPage8.Name = "tabPage8";
             this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage8.Size = new System.Drawing.Size(715, 471);
+            this.tabPage8.Size = new System.Drawing.Size(715, 904);
             this.tabPage8.TabIndex = 7;
             this.tabPage8.Text = "tabPage8";
             this.tabPage8.UseVisualStyleBackColor = true;
@@ -647,7 +627,7 @@
             this.webViewGithub.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webViewGithub.Location = new System.Drawing.Point(3, 3);
             this.webViewGithub.Name = "webViewGithub";
-            this.webViewGithub.Size = new System.Drawing.Size(709, 465);
+            this.webViewGithub.Size = new System.Drawing.Size(709, 898);
             this.webViewGithub.TabIndex = 1;
             this.webViewGithub.ZoomFactor = 1D;
             // 
@@ -657,7 +637,7 @@
             this.tabPage9.Location = new System.Drawing.Point(4, 4);
             this.tabPage9.Name = "tabPage9";
             this.tabPage9.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage9.Size = new System.Drawing.Size(715, 471);
+            this.tabPage9.Size = new System.Drawing.Size(715, 904);
             this.tabPage9.TabIndex = 8;
             this.tabPage9.Text = "tabPage9";
             this.tabPage9.UseVisualStyleBackColor = true;
@@ -672,7 +652,7 @@
             this.webViewLinkedin.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webViewLinkedin.Location = new System.Drawing.Point(3, 3);
             this.webViewLinkedin.Name = "webViewLinkedin";
-            this.webViewLinkedin.Size = new System.Drawing.Size(709, 465);
+            this.webViewLinkedin.Size = new System.Drawing.Size(709, 898);
             this.webViewLinkedin.TabIndex = 1;
             this.webViewLinkedin.ZoomFactor = 1D;
             // 

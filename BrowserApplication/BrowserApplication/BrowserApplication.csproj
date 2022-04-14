@@ -29,9 +29,10 @@
     <UpdateUrl>https://raw.githubusercontent.com/The-Vigilante/BrowserApp/master/published/</UpdateUrl>
     <ProductName>Web App</ProductName>
     <PublisherName>Anas-Vigilante</PublisherName>
-    <ApplicationRevision>2</ApplicationRevision>
+    <TrustUrlParameters>true</TrustUrlParameters>
+    <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <UseApplicationTrust>false</UseApplicationTrust>
+    <UseApplicationTrust>true</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
