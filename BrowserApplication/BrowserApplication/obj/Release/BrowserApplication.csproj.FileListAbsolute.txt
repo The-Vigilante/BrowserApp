@@ -6,7 +6,6 @@ E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Web-App.exe.mani
 E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Web-App.application
 E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Web-App.exe
 E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Web-App.pdb
-E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Bunifu.Core.dll
 E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
 E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
 E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll

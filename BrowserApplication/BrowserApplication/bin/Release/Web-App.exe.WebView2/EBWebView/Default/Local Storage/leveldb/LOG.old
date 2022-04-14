@@ -1,0 +1,5 @@
+2022/04/14-17:34:08.949 7520 Reusing MANIFEST E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Web-App.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2022/04/14-17:34:08.950 7520 Recovering log #11
+2022/04/14-17:34:08.950 7520 Reusing old log E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Release\Web-App.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000011.log 
+2022/04/14-17:35:01.956 7520 Level-0 table #14: started
+2022/04/14-17:35:02.070 7520 Level-0 table #14: 28039 bytes OK
