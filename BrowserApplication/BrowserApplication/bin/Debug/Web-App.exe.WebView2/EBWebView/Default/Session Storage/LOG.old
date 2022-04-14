@@ -1,15 +1,15 @@
-2022/04/13-21:54:48.320 2d40 Reusing MANIFEST E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\Web-App.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
-2022/04/13-21:54:48.322 2d40 Recovering log #15
-2022/04/13-21:54:48.322 2d40 Reusing old log E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\Web-App.exe.WebView2\EBWebView\Default\Session Storage/000015.log 
-2022/04/13-21:55:03.109 36c8 Level-0 table #19: started
-2022/04/13-21:55:03.171 36c8 Level-0 table #19: 17272 bytes OK
-2022/04/13-21:55:03.200 36c8 Delete type=0 #15
-2022/04/13-21:55:03.201 36c8 Compacting 4@0 + 1@1 files
-2022/04/13-21:55:03.255 36c8 Generated table #20@0: 233 keys, 18621 bytes
-2022/04/13-21:55:03.255 36c8 Compacted 4@0 + 1@1 files => 18621 bytes
-2022/04/13-21:55:03.295 36c8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/04/13-21:55:03.297 36c8 Delete type=2 #8
-2022/04/13-21:55:03.297 36c8 Delete type=2 #11
-2022/04/13-21:55:03.297 36c8 Delete type=2 #13
-2022/04/13-21:55:03.297 36c8 Delete type=2 #16
-2022/04/13-21:55:03.298 36c8 Delete type=2 #19
+2022/04/14-14:53:03.377 5e58 Reusing MANIFEST E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\Web-App.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
+2022/04/14-14:53:03.379 5e58 Recovering log #27
+2022/04/14-14:53:03.379 5e58 Reusing old log E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\Web-App.exe.WebView2\EBWebView\Default\Session Storage/000027.log 
+2022/04/14-14:53:10.024 5e58 Level-0 table #31: started
+2022/04/14-14:53:10.080 5e58 Level-0 table #31: 16160 bytes OK
+2022/04/14-14:53:10.113 5e58 Delete type=0 #27
+2022/04/14-14:53:10.114 5e58 Compacting 4@0 + 1@1 files
+2022/04/14-14:53:10.157 5e58 Generated table #32@0: 382 keys, 22772 bytes
+2022/04/14-14:53:10.157 5e58 Compacted 4@0 + 1@1 files => 22772 bytes
+2022/04/14-14:53:10.185 5e58 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/14-14:53:10.189 5e58 Delete type=2 #20
+2022/04/14-14:53:10.189 5e58 Delete type=2 #23
+2022/04/14-14:53:10.189 5e58 Delete type=2 #26
+2022/04/14-14:53:10.189 5e58 Delete type=2 #28
+2022/04/14-14:53:10.189 5e58 Delete type=2 #31

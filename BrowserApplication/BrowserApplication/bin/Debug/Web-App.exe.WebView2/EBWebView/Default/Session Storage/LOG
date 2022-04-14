@@ -1,6 +1,6 @@
-2022/04/13-21:55:26.296 d9c Reusing MANIFEST E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\Web-App.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
-2022/04/13-21:55:26.298 d9c Recovering log #18
-2022/04/13-21:55:26.298 d9c Reusing old log E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\Web-App.exe.WebView2\EBWebView\Default\Session Storage/000018.log 
-2022/04/13-21:55:53.600 5284 Level-0 table #23: started
-2022/04/13-21:55:53.631 5284 Level-0 table #23: 20243 bytes OK
-2022/04/13-21:55:53.675 5284 Delete type=0 #18
+2022/04/14-14:54:24.984 3eec Reusing MANIFEST E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\Web-App.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
+2022/04/14-14:54:24.986 3eec Recovering log #30
+2022/04/14-14:54:24.987 3eec Reusing old log E:\BrowserApp\BrowserApplication\BrowserApplication\bin\Debug\Web-App.exe.WebView2\EBWebView\Default\Session Storage/000030.log 
+2022/04/14-14:54:34.544 4970 Level-0 table #35: started
+2022/04/14-14:54:34.752 4970 Level-0 table #35: 17149 bytes OK
+2022/04/14-14:54:34.804 4970 Delete type=0 #30
